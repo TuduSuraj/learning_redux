@@ -43,3 +43,5 @@ function incrementByAmount(value) {
 setInterval(() => {
   store.dispatch(incrementByAmount(4));
 }, 3000);
+
+//ADD something
